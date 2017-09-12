@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<skeleton>
+   <root x1="0.0" y1="1.0" z1="0.0" x2="0.0" y2="0.0" z2="0.0">       
+    <joint1 x="-0.5" y="0.0" z="0.0">
+     </joint1>
+     <joint1 x="0.0" y="0.0" z="1.0">
+     </joint1>
+   </root>
+</skeleton>
